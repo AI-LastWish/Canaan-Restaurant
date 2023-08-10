@@ -4,8 +4,8 @@
 
 1. Clone the repository
 2. Change directory into frontend: `cd frontend`, run `npm install`, then run `npm start`
-3. Open a new tab in your terminal, then create .env file `cp .env.example .env`
-4. Type `cd backend` then run `docker compose up --build`
+3. Open a new tab in your terminal, type `cd backend` then run `cp .env.example .env` to create .env file
+4. In that tab, run `docker compose up --build`
 
 ## Account to test:
 
